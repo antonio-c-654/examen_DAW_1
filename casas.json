@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "palacio qwerty",
+        "ubicacion": "valencia"
+    },
+    {
+        "nombre": "apartamento",
+        "ubicacion": "castellon"
+    },
+    {
+        "nombre": "piso",
+        "ubicacion": "alicante"
+    }
+]
